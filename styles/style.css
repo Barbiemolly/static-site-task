@@ -1,0 +1,19 @@
+.product-img{
+    transition: transform 0.3s ease;
+    height: 300px;
+    width: 350px;
+}
+
+.product-img:hover{
+    transform: scale(1.05);
+}
+
+footer{
+    background-color: rgb(125,255,255);
+    padding: 20px 0;
+}
+
+.footer-logo {
+    height: 40px;
+    margin-right: 15px;
+}
